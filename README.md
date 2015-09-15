@@ -20,5 +20,5 @@ References
 
 - [1] Ergun Biçici, Declan Groves, and Josef van Genabith. Predicting Sentence Translation Quality Using Extrinsic and Language Independent Features. Machine Translation, 2013.
 - [2] Ergun Biçici and Andy Way. Referential Translation Machines for Predicting Translation Quality. In Proceedings of the Ninth Workshop on Statistical Machine Translation, Baltimore, USA, June 2014. Association for Computational Linguistics.
--[3] Ergun Biçici. Domain Adaptation for Machine Translation with Instance Selection. The Prague Bulletin of Mathematical Linguistics, 103, 2014.
+- [3] Ergun Biçici. Domain Adaptation for Machine Translation with Instance Selection. The Prague Bulletin of Mathematical Linguistics, 103, 2014.
 
